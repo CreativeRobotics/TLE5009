@@ -14,12 +14,15 @@ Features:
 Calibration examples for single ended or differential mode
 
 Output angles in +/- radians (-3.14 ~ +3.14)
+
 Output angles in +/- degrees (-180 ~ +180)
+
 Output angle delta in rads/sec or degrees/sec
 
 Revolution counter - the library keeps track of the total number of revolutions.
 
 Single ended mode - requires 2 analog inputs
+
 Differential mode - requires 4 analog inputs
 
 To be done: Add Vgmr sensor compensation.
